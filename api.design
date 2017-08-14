@@ -1,0 +1,13 @@
+- product
+    * name
+    * price
+    * description
+
+    - vendor
+        * name
+        * logo
+        * background-color
+        * foreground-color
+    - category
+        * name
+ 
